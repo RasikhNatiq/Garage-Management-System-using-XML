@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="garage.xsl"?>
+<Garage>
+    <car name="350z">
+        <make>Nisan</make>
+        <model>2012</model>
+        <color>Black</color>
+        <type>Sports</type>
+        <mileage>15000</mileage>
+        <hp>306</hp>
+        <engineCC>3500</engineCC>
+    </car>
+    
+    <car name="Gtr">
+        <make>Nisan</make>
+        <model>2020</model>
+        <color>Blue</color>
+        <type>Sports</type>
+        <mileage>2000</mileage>
+        <hp>600</hp>
+        <engineCC>4000</engineCC>
+    </car>
+    
+    <car name="911">
+        <make>Porsche</make>
+        <model>2020</model>
+        <color>Blue</color>
+        <type>Sports</type>
+        <mileage>3000</mileage>
+        <hp>500</hp>
+        <engineCC>3000</engineCC>
+    </car>
+    
+    <car name="Corvette">
+        <make>Chevrolet</make>
+        <model>2020</model>
+        <color>Red</color>
+        <type>Sports</type>
+        <mileage>50000</mileage>
+        <hp>490</hp>
+        <engineCC>6000</engineCC>
+    </car>
+    
+    <car name="R8">
+        <make>Audi</make>
+        <model>2021</model>
+        <color>Blue</color>
+        <type>Sports</type>
+        <mileage>20000</mileage>
+        <hp>600</hp>
+        <engineCC>5000</engineCC>
+    </car>
+    
+    <car name="Supra">
+        <make>Toyota</make>
+        <model>2010</model>
+        <color>Red</color>
+        <type>Sports</type>
+        <mileage>60000</mileage>
+        <hp>400</hp>
+        <engineCC>2000</engineCC>
+    </car>
+    
+    <car name="Aventador">
+        <make>Lamborghini</make>
+        <model>2016</model>
+        <color>Grey</color>
+        <type>Sports</type>
+        <mileage>5000</mileage>
+        <hp>750</hp>
+        <engineCC>65000</engineCC>
+    </car>
+    
+    <car name="Huracan">
+        <make>Lamborghini</make>
+        <model>2016</model>
+        <color>Grey</color>
+        <type>Sports</type>
+        <mileage>5000</mileage>
+        <hp>600</hp>
+        <engineCC>5000</engineCC>
+    </car>
+    
+    <car name="Gallardo">
+        <make>Lamborghini</make>
+        <model>2012</model>
+        <color>Blue</color>
+        <type>Sports</type>
+        <mileage>100000</mileage>
+        <hp>550</hp>
+        <engineCC>5000</engineCC>
+    </car>
+    
+    <car name="A6">
+        <make>Audi</make>
+        <model>2016</model>
+        <color>White</color>
+        <type>Sedan</type>
+        <mileage>20000</mileage>
+        <hp>241</hp>
+        <engineCC>2000</engineCC>
+    </car>
+    
+    <car name="Lancer">
+        <make>Mitsubishi</make>
+        <model>2012</model>
+        <color>Blue</color>
+        <type>Sedan</type>
+        <mileage>300000</mileage>
+        <hp>130</hp>
+        <engineCC>1800</engineCC>
+    </car>
+    
+    <car name="Elantra">
+        <make>Hyundai</make>
+        <model>2022</model>
+        <color>White</color>
+        <type>Sedan</type>
+        <mileage>3000</mileage>
+        <hp>155</hp>
+        <engineCC>2000</engineCC>
+    </car>
+    
+    <car name="S500">
+        <make>Mercedes</make>
+        <model>2019</model>
+        <color>Grey</color>
+        <type>Sedan</type>
+        <mileage>10000</mileage>
+        <hp>200</hp>
+        <engineCC>5500</engineCC>
+    </car>
+    
+    <car name="E200">
+        <make>Mercedes</make>
+        <model>2015</model>
+        <color>Black</color>
+        <type>Sedan</type>
+        <mileage>10000</mileage>
+        <hp>184</hp>
+        <engineCC>2000</engineCC>
+    </car>
+    
+    <car name="C180">
+        <make>Mercedes</make>
+        <model>2012</model>
+        <color>Silver</color>
+        <type>Sedan</type>
+        <mileage>100000</mileage>
+        <hp>157</hp>
+        <engineCC>1800</engineCC>
+    </car>
+    
+    <car name="318i">
+        <make>Bmw</make>
+        <model>2018</model>
+        <color>White</color>
+        <type>Sedan</type>
+        <mileage>2800</mileage>
+        <hp>187</hp>
+        <engineCC>1500</engineCC>
+    </car>
+    
+    <car name="E65">
+        <make>Bmw</make>
+        <model>2007</model>
+        <color>Red</color>
+        <type>Sedan</type>
+        <mileage>140000</mileage>
+        <hp>333</hp>
+        <engineCC>3000</engineCC>
+    </car>
+    
+    <car name="Corolla">
+        <make>Toyota</make>
+        <model>2017</model>
+        <color>Black</color>
+        <type>Sedan</type>
+        <mileage>10000</mileage>
+        <hp>124</hp>
+        <engineCC>1600</engineCC>
+    </car>
+    
+    <car name="City">
+        <make>Honda</make>
+        <model>2022</model>
+        <color>Silver</color>
+        <type>Sedan</type>
+        <mileage>1000</mileage>
+        <hp>117</hp>
+        <engineCC>1500</engineCC>
+    </car>
+    
+    <car name="Civic">
+        <make>Honda</make>
+        <model>2021</model>
+        <color>Blue</color>
+        <type>Sedan</type>
+        <mileage>100000</mileage>
+        <hp>140</hp>
+        <engineCC>1800</engineCC>
+    </car>
+    
+    <car name="Mustang">
+        <make>Ford</make>
+        <model>2015</model>
+        <color>Yellow</color>
+        <type>Muscle</type>
+        <mileage>25000</mileage>
+        <hp>450</hp>
+        <engineCC>5000</engineCC>   
+    </car>
+    
+    <car name="Challenger">
+        <make>Dodge</make>
+        <model>2010</model>
+        <color>Red</color>
+        <type>Muscle</type>
+        <mileage>60000</mileage>
+        <hp>303</hp>
+        <engineCC>6000</engineCC>   
+    </car>
+    
+    <car name="Charger">
+        <make>Dodge</make>
+        <model>2013</model>
+        <color>Blue</color>
+        <type>Muscle</type>
+        <mileage>200000</mileage>
+        <hp>289</hp>
+        <engineCC>5700</engineCC>   
+    </car>
+    
+    <car name="Camaro">
+        <make>Chevrolet</make>
+        <model>2016</model>
+        <color>Yellow</color>
+        <type>Muscle</type>
+        <mileage>100000</mileage>
+        <hp>460</hp>
+        <engineCC>3500</engineCC>
+    </car>
+    
+    <car name="Lx570">
+        <make>Lexus</make>
+        <model>2022</model>
+        <color>Pink</color>
+        <type>Suv</type>
+        <mileage>1000</mileage>
+        <hp>250</hp>
+        <engineCC>5000</engineCC>
+    </car>
+    
+    <car name="Land Cruiser">
+        <make>Toyota</make>
+        <model>2014</model>
+        <color>Black</color>
+        <type>Suv</type>
+        <mileage>15000</mileage>
+        <hp>400</hp>
+        <engineCC>4500</engineCC>
+    </car>
+    
+    <car name="X5">
+        <make>Bmw</make>
+        <model>2010</model>
+        <color>White</color>
+        <type>Suv</type>
+        <mileage>10000</mileage>
+        <hp>350</hp>
+        <engineCC>3000</engineCC>
+    </car>
+    
+    <car name="Patrol">
+        <make>Nissan</make>
+        <model>2009</model>
+        <color>Grey</color>
+        <type>Suv</type>
+        <mileage>300000</mileage>
+        <hp>300</hp>
+        <engineCC>6000</engineCC>
+    </car>
+    
+    <car name="G63">
+        <make>Mercedes</make>
+        <model>2022</model>
+        <color>Black</color>
+        <type>Suv</type>
+        <mileage>1000</mileage>
+        <hp>580</hp>
+        <engineCC>4000</engineCC>
+    </car>
+    
+    <car name="Q3">
+        <make>Audi</make>
+        <model>2018</model>
+        <color>Orange</color>
+        <type>Suv</type>
+        <mileage>30000</mileage>
+        <hp>228</hp>
+        <engineCC>2000</engineCC>
+    </car>
+    
+    <car name="Wrangler">
+        <make>Jeep</make>
+        <model>2018</model>
+        <color>Silver</color>
+        <type>Suv</type>
+        <mileage>30000</mileage>
+        <hp>285</hp>
+        <engineCC>3600</engineCC>
+    </car>
+    
+    <car name="Grand Cherokee">
+        <make>Jeep</make>
+        <model>2020</model>
+        <color>Grey</color>
+        <type>Suv</type>
+        <mileage>30000</mileage>
+        <hp>295</hp>
+        <engineCC>3600</engineCC>
+    </car>
+    
+    <car name="Escalade">
+        <make>Cadillac</make>
+        <model>2016</model>
+        <color>Black</color>
+        <type>Suv</type>
+        <mileage>60000</mileage>
+        <hp>420</hp>
+        <engineCC>6200</engineCC>
+    </car>
+    
+    <car name="Prado">
+        <make>Toyota</make>
+        <model>2022</model>
+        <color>White</color>
+        <type>Suv</type>
+        <mileage>1300</mileage>
+        <hp>279</hp>
+        <engineCC>3400</engineCC>
+    </car>
+    
+    <car name="Prius">
+        <make>Toyota</make>
+        <model>2022</model>
+        <color>Red</color>
+        <type>Hatchback</type>
+        <mileage>200000</mileage>
+        <hp>121</hp>    
+        <engineCC>1800</engineCC>
+    </car>
+    
+    <car name="Fit">
+        <make>Honda</make>
+        <model>2018</model>
+        <color>Orange</color>
+        <type>Hatchback</type>
+        <mileage>12000</mileage>
+        <hp>130</hp>
+        <engineCC>1500</engineCC>
+    </car>
+    
+    <car name="Aqua">
+        <make>Toyota</make>
+        <model>2021</model>
+        <color>Yellow</color>
+        <type>Hatchback</type>
+        <mileage>120000</mileage>
+        <hp>140</hp>
+        <engineCC>1800</engineCC>
+    </car>
+    
+    <car name="Swift">
+        <make>Suzuki</make>
+        <model>2022</model>
+        <color>Blue</color>
+        <type>Hatchback</type>
+        <mileage>1000</mileage>
+        <hp>100</hp>
+        <engineCC>1000</engineCC>
+    </car>
+    
+    <car name="V2">
+        <make>Faw</make>
+        <model>2020</model>
+        <color>Yellow</color>
+        <type>Hatchback</type>
+        <mileage>40000</mileage>
+        <hp>90</hp>
+        <engineCC>1000</engineCC>
+    </car>
+    
+    <car name="Golf">
+        <make>Volkswagen</make>
+        <model>2021</model>
+        <color>Blue</color>
+        <type>Hatchback</type>
+        <mileage>33000</mileage>
+        <hp>257</hp>
+        <engineCC>3000</engineCC>
+    </car>
+    
+</Garage>
